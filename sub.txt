@@ -1,0 +1,2 @@
+vless://7707e868-963d-4785-f56a-73602f748092@104.21.57.14:443?encryption=none&security=tls&sni=itunes.apple.com&type=grpc&serviceName=grpc#MyFirstKey
+vless://9660378b-0300-410a-9d90-34909a34909a@172.67.173.188:443?encryption=none&security=tls&sni=www.speedtest.net&type=ws#MySecondKey
